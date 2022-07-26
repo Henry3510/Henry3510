@@ -1,6 +1,6 @@
 # About
 
-<a href="#"><img align="right" alt="Henry3510's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=henry3510&count_private=true&show_icons=true&theme=tokyonight"></img></a>
+<a href="#"><img align="right" alt="Henry3510's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=henry3510&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"></img></a>
 
 INFJ / BAID '24
 
