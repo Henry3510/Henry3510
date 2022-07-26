@@ -6,7 +6,7 @@ INFJ / BAID '24
 
 J-pop / jazz / piano / musical composition / anime
 
-I make some music.
+I make some music. Sometimes I code.
 
 # Links
 
