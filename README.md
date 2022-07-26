@@ -14,3 +14,5 @@ I make some music. Sometimes I code.
 - [Bilibili](https://space.bilibili.com/226288130)
 - [YouTube](https://www.youtube.com/channel/UCyK0edeGCdywIPtiIElxp5g)
 - [NetEase Music](https://music.163.com/#/artist?id=48345385)
+
+> The quieter you become, the more you are able to hear.
