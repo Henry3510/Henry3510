@@ -10,7 +10,7 @@ I make some music. Sometimes I code.
 
 # Links
 
-- [Website](https://henry3510.com/)
+- [Website](https://henrywangmusic.com/)
 - [Bilibili](https://space.bilibili.com/226288130)
-- [YouTube](https://www.youtube.com/channel/UCyK0edeGCdywIPtiIElxp5g)
+- [YouTube](https://www.youtube.com/@henry3510)
 - [NetEase Music](https://music.163.com/#/artist?id=48345385)
